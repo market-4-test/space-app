@@ -1,5 +1,3 @@
-Of course, here is the translation of the `README.md` file into English.
-
 # Market 4 Test Space
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://www.google.com/search?q=%5Bhttps://nextjs.org/docs/app/api-reference/cli/create-next-app%5D\(https://nextjs.org/docs/app/api-reference/cli/create-next-app\)).
